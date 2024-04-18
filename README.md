@@ -22,6 +22,8 @@ The gif below demonstrates how the maze solver works. Each **"Worm"** is a solut
 
 ![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVoYnd5ejVkNHV1dmxsdmI1d3c0dDF5bzR6bGZseTNndWEwdmZyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0qkCQ8kLV2zVV4B7k5/giphy.gif)
 
+The gif cuts abruptly, here's a link to the full gif: https://giphy.com/gifs/0qkCQ8kLV2zVV4B7k5
+
 ## Installation
 
 Download the .ipynb file and run it locally. Note to import all the packages using "pip install".
