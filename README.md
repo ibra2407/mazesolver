@@ -18,6 +18,7 @@ Each **"Worm"** is a solution and is represented by red paths. When the maze is 
 ## Demo
 
 ![Demo](demo.gif)
+The gif below demonstrates how the maze solver works. Each **"Worm"** is a solution and is represented by red paths. When the maze is solved, the final Worm is represented as a blue path.
 
 ![Demo](https://media.giphy.com/media/gdSR8vsQhx8CWpY5bw/giphy.gif)
 
