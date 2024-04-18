@@ -19,7 +19,7 @@ Each **"Worm"** is a solution and is represented by red paths. When the maze is 
 
 ![Demo](demo.gif)
 
-[Watch Demo Video](#) *(Coming soon!)*
+![Demo](https://media.giphy.com/media/gdSR8vsQhx8CWpY5bw/giphy.gif)
 
 ## Installation
 
