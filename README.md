@@ -20,10 +20,12 @@ Each **"Worm"** is a solution and is represented by red paths. When the maze is 
 ![Demo](demo.gif)
 The gif below demonstrates how the maze solver works. Each **"Worm"** is a solution and is represented by red paths. When the maze is solved, the final Worm is represented as a blue path.
 
-![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVoYnd5ejVkNHV1dmxsdmI1d3c0dDF5bzR6bGZseTNndWEwdmZyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0qkCQ8kLV2zVV4B7k5/giphy.gif)
+![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5MnY0ajh5NWxhZ2dvOHpkd2V0MTl3dHc4b2N4YW5haWprYjk0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ndx2rjsvd3W978XYCM/giphy.gif)
 
-The gif cuts abruptly, here's a link to the full gif: https://giphy.com/gifs/0qkCQ8kLV2zVV4B7k5
 
 ## Installation
 
 Download the .ipynb file and run it locally. Note to import all the packages using "pip install".
+
+## Disclaimers
+This project was done by students. It is a submission for our coursework. Some of the information in the report might not be fully accurate.
