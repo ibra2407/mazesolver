@@ -20,8 +20,8 @@ Each **"Worm"** is a solution and is represented by red paths. When the maze is 
 ![Demo](demo.gif)
 The gif below demonstrates how the maze solver works. Each **"Worm"** is a solution and is represented by red paths. When the maze is solved, the final Worm is represented as a blue path.
 
-![Demo]([https://media.giphy.com/media/gdSR8vsQhx8CWpY5bw/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHlmdnUwZGExY3gxOWNyOXV0Zm9tdWMwdXZzcjN2Y3kzczF1cnk5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z96QgRWDm1MRs6Kjsb/giphy.gif))
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHlmdnUwZGExY3gxOWNyOXV0Zm9tdWMwdXZzcjN2Y3kzczF1cnk5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z96QgRWDm1MRs6Kjsb/giphy.gif
+![Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVoYnd5ejVkNHV1dmxsdmI1d3c0dDF5bzR6bGZseTNndWEwdmZyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0qkCQ8kLV2zVV4B7k5/giphy.gif)
+
 ## Installation
 
 Download the .ipynb file and run it locally. Note to import all the packages using "pip install".
